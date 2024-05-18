@@ -1,0 +1,10 @@
+@import url("reset.css");
+.text {
+    color: red;
+}
+.title {
+    color: blue;
+}
+[href] {
+    color: green;
+}
