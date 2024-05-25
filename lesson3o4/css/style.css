@@ -1,0 +1,8 @@
+@import url("reset.css");
+
+.title {
+	color: red;
+}
+.text {
+    color: blue;
+}
