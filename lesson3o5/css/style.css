@@ -1,0 +1,17 @@
+@import url("reset.css");
+
+#part1 {
+    color: red;
+}
+#part3 {
+    color: blue;
+}
+.text {
+    color: darkmagenta;
+}
+.red {
+    color: darkblue;
+}
+.lesson li {
+    color: chartreuse;
+}
