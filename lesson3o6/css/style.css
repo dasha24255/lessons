@@ -1,0 +1,11 @@
+@import url("reset.css");
+
+.lesson * {
+    color: red;
+}
+.main > p {
+    color: chocolate;
+}
+.main + h2 {
+    color: deeppink;
+}
