@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url("fonts.css");
+
+@import url("reset.css");
+
+.text ~ p {
+  font-family: "PT Sans";
+  font-style: italic;
+  font-size: 25px;
+}
+
+.title {
+  font-family: "Druk Wide";
+  font-style: normal;
+  color: orangered;
+  font-size: 100px;
+  font-weight: 600;
+}
+
+.titlet {
+  font-family: "PT Sans";
+  font-style: normal;
+  font-size: 30px;
+}
+
+.text {
+  font-family: "Druk Wide" ;
+  font-style: italic;
+  font-size: 25px;
+ }
+
+
+
+
+
+
+
